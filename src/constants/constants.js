@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2004, text: 'Joined the U.S Marine Corps', },
+  { year: 2005, text: 'Graduated as a Satellite Technician and circuit card technician.', },
+  { year: 2016, text: 'Graduated from Iowa State University', },
+  { year: 2019, text: 'Worked all over the country as a Distributed Antenna System technician and Radio technician', },
+  { year: 2021, text: 'Graduated from Prime Digital Academy\'s Full-stack Software Engineer Program', },
 ];
