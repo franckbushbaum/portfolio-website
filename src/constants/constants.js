@@ -1,16 +1,16 @@
 export const projects = [
   {
     title: 'MN Marketing Careers',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/a-gif-i-saved.gif',
-      tags: ['PostgrSQL', 'Express', 'React', 'Node'],
+    description: "This application provides improved and expanded functionality for the curators of the MN Marketing Careers job list sharing service and increased accessibility to the the subscribers to that list, and employers looking to include new job openings.",
+    image: '/images/a-gif-i-saved.gif',
+    tags: ['PostgrSQL', 'Express', 'React', 'Node','MailChimp API'],
     source: 'https://mnmarketingcareers.herokuapp.com/#/main',
     visit: 'https://github.com/mnmarketingcareers/mn-marketing-careers',
     id: 0,
   },
   {
     title: 'Project 531',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"My personal workout app based on the popular workout template: Jim Wendler's 5/3/1! Wireframe made with NinjaMock, Lucid.app and Dbdesigner.net",
     image: '/images/Datapath.png',
     tags: ['PostgrSQL', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Movies Saga',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "Do you like movies? Me too. Click a movie poster to see the description and genres. You can also add or delete a movie!",
       image: '/images/movies.gif',
       tags: ['PostgrSQL', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Feedback page',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "My version of Prime Digital Academy's feedback form with Admin functionality.",
     image: '/images/feedback-form.gif',
     tags: ['PostgrSQL', 'Express', 'React', 'Node'],
     source: 'https://google.com',
