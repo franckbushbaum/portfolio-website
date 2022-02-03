@@ -37,7 +37,10 @@ const Technologies = () => (
           <ListTitle>APIs</ListTitle>
           <ListParagraph>
             Experience with <br />
-           Mailchimp
+            Mailchimp <br />
+            Cloudinary <br />
+            Alpha Vantage <br />
+            Crypto News Live
           </ListParagraph>
         </ListContainer>
       </ListItem>
